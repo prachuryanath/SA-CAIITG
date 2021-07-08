@@ -10,7 +10,7 @@ date,campaign,adgroup,ad,impressions,clicks,cost,conversions,revenue
 01-08-2020,campaign 1,adgroup 3,ad 3,104,56,0.56,0,0
 01-08-2020,campaign 1,adgroup 4,ad 3,6,5,0.05,0,0
 01-08-2020,campaign 1,adgroup 2,ad 3,4,0,0,0,0
-01-08-2020,campaign 1,adgroup 3,ad 4,39,16,0.22,0,0
+01-08-2020,campaign ,adgroup 3,ad 4,39,16,0.22,0,0
 01-08-2020,campaign 1,adgroup 3,ad 5,17,6,0.06,0,0
 01-08-2020,campaign 1,adgroup 3,ad 6,253,128,1.32,2,339.83
 01-08-2020,campaign 1,adgroup 3,ad 7,16,6,0.07,0,0
@@ -18,7 +18,7 @@ date,campaign,adgroup,ad,impressions,clicks,cost,conversions,revenue
 01-08-2020,campaign 1,adgroup 2,ad 7,5,2,0.04,0,0
 01-08-2020,campaign 1,adgroup 3,ad 8,250,114,1.17,3,384.22
 01-08-2020,campaign 1,adgroup 3,ad 9,261,123,1.27,4,337.57
-01-08-2020,campaign 1,adgroup 2,ad 9,5,0,0,0,0
+01-08-2020,campaign 1,adgr1oup 2,ad 9,5,0,0,0,0
 01-08-2020,campaign 1,adgroup 1,ad 9,329,130,1.4,3,397.59
 01-08-2020,campaign 1,adgroup 4,ad 9,2,2,0.02,0,0
 01-08-2020,campaign 1,adgroup 1,ad 10,5,2,0.02,0,0
